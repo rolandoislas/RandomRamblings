@@ -1,0 +1,20 @@
+# Dependencies
+gems: [jekyll-paginate]
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
+
+# Setup
+title: "Rolando Islas"
+tagline: "Random Ramblings"
+description: "Welcome to the ramblings."
+url: https://blog.rolandoislas.com
+
+author:
+  name: "Rolando Islas"
+  url: https://www.rolandoislas.com
+
+paginate: 5
+paginate_path: "/page/:num/"
