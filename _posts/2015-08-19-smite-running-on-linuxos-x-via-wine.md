@@ -23,8 +23,15 @@ tags:
   - Smite (Video Game)
   - Wine
 ---
-For a while, [For a while,](https://appdb.winehq.org/objectManager.php?sClass=version&iId=27920) now, there have been attempts to run Smite under Wine. Unfortunately, the launcher could never get past waiting for that HiRez patch service. If your are just interested in getting Smite running in Wine check out [WineHQ](https://appdb.winehq.org/objectManager.php?sClass=version&iId=31936). If you want to go the PlayOnLinux (POL)/PlayOnMac route, I have created a POL script that should get you up and running. You can find the script in a [gist](https://gist.github.com/rolandoislas/92edb90a9b130ca076d1), or keep reading.
+For a while, [years] now, there have been attempts to run Smite under Wine. Unfortunately, the 
+launcher could never get past waiting for that HiRez patch service. If your are just interested in 
+getting Smite running in Wine check out [WineHQ]. If you want to go the PlayOnLinux 
+(POL)/PlayOnMac route, I have created a POL script that should get you up and running. You can 
+find the script ~~in a [gist]~~ on [GitHub]. Details are avaliable in the repo's readme.
 
-<div style="height:500px;overflow-y:scroll">
-	<script src="https://gist.github.com/rolandoislas/92edb90a9b130ca076d1.js"></script>
-</div>
+Edit (16 Jan 2015): Moved scripts to a regular GitHub repo.
+
+[years]: https://appdb.winehq.org/objectManager.php?sClass=version&iId=27920
+[WineHQ]: https://appdb.winehq.org/objectManager.php?sClass=version&iId=31936
+[gist]: https://gist.github.com/rolandoislas/92edb90a9b130ca076d1
+[GitHub]: https://github.com/rolandoislas/SmiteInstallScriptPOL
