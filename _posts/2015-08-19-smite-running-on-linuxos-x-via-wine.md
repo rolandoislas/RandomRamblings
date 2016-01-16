@@ -29,7 +29,7 @@ getting Smite running in Wine check out [WineHQ]. If you want to go the PlayOnLi
 (POL)/PlayOnMac route, I have created a POL script that should get you up and running. You can 
 find the script ~~in a [gist]~~ on [GitHub]. Details are avaliable in the repo's readme.
 
-Edit (16 Jan 2015): Moved scripts to a regular GitHub repo.
+Edit (16 Jan 2016): Moved scripts to a regular GitHub repo.
 
 [years]: https://appdb.winehq.org/objectManager.php?sClass=version&iId=27920
 [WineHQ]: https://appdb.winehq.org/objectManager.php?sClass=version&iId=31936
