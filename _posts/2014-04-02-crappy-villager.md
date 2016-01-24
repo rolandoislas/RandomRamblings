@@ -18,4 +18,4 @@ I wanted to create a Crappy Comic involving Minecraft villagers, but two things 
 
 For those of you unfamiliar with Minecraft, [go familiarize yourself](https://www.youtube.com/watch?v=gp3yHbluEiY&list=PLxZuR7fx2JOkr-K1fScXxnYIBpCIkHEJ-). For the other who just want a reference to what I was attempting to draw, [here you go](http://minecraft.gamepedia.com/File:Priest.png?version=0f1d00bcbcd61560eb9391226cc1c5f3).
 
-[<img class="aligncenter wp-image-678 size-large" src="https://blog.rolandoislas.com/wp-content/uploads/2014/04/Crappy-Villager-700x784.png" alt="Crappy Villager" width="680" height="762" srcset="//blog.rolandoislas.com/wp-content/uploads/2014/04/Crappy-Villager-250x280.png 250w, //blog.rolandoislas.com/wp-content/uploads/2014/04/Crappy-Villager-700x784.png 700w" sizes="(max-width: 680px) 100vw, 680px" />](https://blog.rolandoislas.com/wp-content/uploads/2014/04/Crappy-Villager.png)
+![](//data.rolandoislas.com/blog/2014/04/Crappy-Villager-700x784.png)
