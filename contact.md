@@ -10,26 +10,32 @@ dsq_thread_id:
 sharing_disabled:
   - 1
 ---
-Email: <admin@rolandoislas.com>
+Email: Rolando Islas <admin@rolandoislas.com>
 
-YouTube: [rolandoislas](http://youtube.com/rolandoislas)
+[PGP Key A524E2BD](https://pgp.mit.edu/pks/lookup?op=get&search=0x1CCA25DAA524E2BD)
 
-Twitter: [@rolandoislas](http://twitter.com/rolandoislas)
+GitHub: [rolandoislas](https://github.com/rolandoislas)
 
-Twitch: [rolandoislas](http://twitch.tv/rolandoislas)
+YouTube: [rolandoislas](https://youtube.com/rolandoislas)
 
-Google+: [+rolandoislas](http://www.google.com/+rolandoislas/)
+Twitter: [@rolandoislas](https://twitter.com/rolandoislas)
 
-Reddit: [/r/rolandoislas](http://www.reddit.com/r/rolandoislas/)
+Twitch: [rolandoislas](https://twitch.tv/rolandoislas)
 
-Spreadshirt: [rolandoislas](http://rolandoislas.spreadshirt.com/)
+Mixer: [rolandoislas](https://mixer.com/rolandoislas)
 
-Facebook: [rolandoislas](http://www.facebook.com/rolandoislas)
+Smashcast: [rolandoislas](https://smashcast.tv/rolandoislas)
+
+Google+: [+rolandoislas](https://www.google.com/+rolandoislas/)
+
+Reddit: [/r/rolandoislas](https://www.reddit.com/r/rolandoislas/)
+
+Spreadshirt: [rolandoislas](https://rolandoislas.spreadshirt.com/)
+
+Facebook: [rolandoislas](https://www.facebook.com/rolandoislas)
 
 Player.me: [rolandoislas](https://player.me/rolandoislas)
 
-Hitbox: [rolandoislas](http://hitbox.tv/rolandoislas)
+Steam: [rolandoislas](https://steamcommunity.com/id/rolandoislas/)
 
-Steam: [rolandoislas](http://steamcommunity.com/id/rolandoislas/)
-
-Patreon: [rolandoislas](http://www.patreon.com/rolandoislas)
+Patreon: [rolandoislas](https://www.patreon.com/rolandoislas)
