@@ -9,8 +9,6 @@ tags:
   - team fortress 2
 ---
 
-# TF2 Damage
-
 Ah, a good ol' TF2 update that brings more hats, contracts, bugs, and of course,
  **broken pyros**. Or not.
  
@@ -47,6 +45,8 @@ TL;DR: Play better. The DPS stats below show that you are just bad at the game.
 
 **\*\*Note: Frame times are arbitrary, based on the reviewed clip and are
  only used to provide the timing for damage calculations.**
+
+# Damage Stats
 
 ## Dragon's Fury
 
