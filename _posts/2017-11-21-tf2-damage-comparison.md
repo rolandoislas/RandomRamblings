@@ -13,12 +13,12 @@ Ah, a good ol' TF2 update that brings more hats, contracts, bugs, and of course,
  **broken pyros**. Or not.
  
 I have seen far too many people complaining on the TF2 casual servers that the
- pyro is broken and such as such should be nerfed, but how many of those people
- have played pyro. Yes, a pyro can do a lot of damage very quickly, but it
- at similar levels to other weapons and has a big drawback: the range.
+ pyro is broken and such and such should be nerfed, but how many of those people
+ have played pyro? Yes, a pyro can do a lot of damage very quickly, but it does
+ so at similar levels to other weapons and has a big drawback: the range.
  
 Let us not pretend that pyros have massive range. In a close encounter the pyro
- has the advantage, yes. However, other classes have range and/or zoning
+ has the advantage, however, other classes have range and/or zoning
  capabilities. If we take a hypothetical corridor with a pyro on one end and
  another class at another, the other class will likely have the range to deal
  with the pyro. A soldier can shoot rockets before the pyro can even come close,
@@ -30,8 +30,8 @@ Let us not pretend that pyros have massive range. In a close encounter the pyro
 > But what about the projectile reflection!?
 
 Timing! Time those rockets or grenades. Did that airblast just go off? Fire!
- Just like there is more than one cosmetic slot, there is also more that one
- weapon slot. A shotgun is the secondary slot can help with those reflecting
+ Just like there is more than one cosmetic slot, there is also more than one
+ weapon slot. A shotgun in the secondary slot can help with those reflecting
  pyros and do not forget that sticky bombs are more difficult for a pyro to deal
  with.
  
